@@ -1,0 +1,64 @@
+run:
+Introduce un numero para la posicion 0
+89
+Introduce un numero para la posicion 1
+35
+Introduce un numero para la posicion 2
+48
+Introduce un numero para la posicion 3
+25
+Introduce un numero para la posicion 4
+47
+Introduce un numero para la posicion 5
+15
+Introduce un numero para la posicion 6
+36
+Introduce un numero para la posicion 7
+95
+Introduce un numero para la posicion 8
+34
+Introduce un numero para la posicion 9
+78
+Introduce un numero para la posicion 10
+15
+Introduce un numero para la posicion 11
+98
+Introduce un numero para la posicion 12
+36
+Introduce un numero para la posicion 13
+48
+Introduce un numero para la posicion 14
+75
+Introduce un numero para la posicion 15
+15
+Introduce un numero para la posicion 16
+36
+Introduce un numero para la posicion 17
+42
+Introduce un numero para la posicion 18
+89
+Introduce un numero para la posicion 19
+64
+Introduce un numero para la posicion 20
+17
+Introduce un numero para la posicion 21
+25
+Introduce un numero para la posicion 22
+78
+Introduce un numero para la posicion 23
+54
+Introduce un numero para la posicion 24
+87
+Introduce un numero para la posicion 25
+32
+Introduce un numero para la posicion 26
+98
+Introduce un numero para la posicion 27
+16
+Introduce un numero para la posicion 28
+66
+Introduce un numero para la posicion 29
+77
+el numero de cifras que esta arriba del promedio es 13
+el numero de cifras que esta abajo del promedio es 17
+BUILD SUCCESSFUL (total time: 33 seconds)
